@@ -30,7 +30,7 @@ Luma Mini Shell Bypass is a lightweight (only ~22KB) PHP webshell designed with 
 <br>
 <div><h1>VT Scan</h1></div>
 <img src="https://raw.githubusercontent.com/vlain1337/Luma-Mini-Shell/refs/heads/main/img/vt.png">
-
+<br><br>
 feel free to contribute to us!
 <br>
 
