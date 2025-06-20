@@ -8,7 +8,7 @@
 <br>
 Luma Mini Shell Bypass is a lightweight (only ~22KB) PHP webshell designed with advanced command execution bypass techniques for hackers. It utilizes lesser-monitored functions like mail(), putenv(), and mb_send_mail() to bypass disabled PHP functions. Compact and stealthy, Luma Mini Shell is engineered to evade detection by most Web Application Firewalls (WAFs) such as LiteSpeed, ModSecurity, Imunify360, BitNinja, Sucuri, WordFance, etc., making it a powerful tool for research into PHP function abuse and WAF bypass methods.<br><br>
 <br>
-<div align="center"><h1>Preview</h1></div>
+<div><h1>Preview</h1></div>
 <img src="https://raw.githubusercontent.com/vlain1337/Luma-Mini-Shell/refs/heads/main/img.png">
 <img src="https://raw.githubusercontent.com/vlain1337/Alfa-Cortex/refs/heads/main/img/login-2.png">
 <img src="https://raw.githubusercontent.com/vlain1337/Alfa-Cortex/refs/heads/main/img/main-shell.png">
