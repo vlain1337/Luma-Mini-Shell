@@ -34,7 +34,7 @@ Luma Mini Shell Bypass is a lightweight (only ~22KB) PHP webshell designed with 
 <div><h1>Important!</h1></div>
 in order for the bypass function to work you need to ensure that the mail(), putenv() & mb_send_mail() functions are enabled.
 feel free to contribute to us!
-<br>
+<br><br>
 
 ## Disclaimer
 
