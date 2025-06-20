@@ -13,7 +13,7 @@ Luma Mini Shell Bypass is a lightweight (only ~22KB) PHP webshell designed with 
 <img src="https://raw.githubusercontent.com/vlain1337/Luma-Mini-Shell/refs/heads/main/img/main-2.png">
 </div>
 <br>
-<div align="center"><h1>Bypass Features</h1></div>
+<div><h1>Bypass Features</h1></div>
 <samp>
 
 * 403
